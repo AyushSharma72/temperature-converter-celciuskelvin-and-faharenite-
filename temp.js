@@ -82,6 +82,6 @@ else if(from == "FAHARENHEIT" && to == "CELCIUS"){ //F TO C
 
  document.getElementById("from").value="CELCIUS";
  document.getElementById("To").value="FAHARENHEIT";
-
+document.getElementById("message").innerHTML=" ";
     }
     
